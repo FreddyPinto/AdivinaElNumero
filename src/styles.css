@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css?family=Muli:400,400i,700,700i");
+html {
+  font-family: "Muli", sans-serif;
+  color: white;
+}
+body {
+  width: 50%;
+  max-width: 800px;
+  min-width: 480px;
+  margin: 0 auto;
+  background-color: #0176ac;
+}
+.overNumber {
+  color: red;
+}
+.win {
+  color: greenyellow;
+}
+.underNumber {
+  color: blue;
+  text-shadow: 2px 2px white;
+}
